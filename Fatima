@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fatima journey through Greece & Italy</title>
+    <style>
+        body {
+            background-color: white;
+            color: #1967c2;
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #1967c2;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin-top: 20px;
+        }
+
+        .image-description {
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+
+        ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Fatima journey through Greece & Italy</h1>
+        <p><strong>Made by:</strong> Fatima Guerrero Calzada</p>
+    </header>
+
+    <section>
+        <h2>Introduction</h2>
+        <p>My trip began at the airport, full of excitement and expectations. I was mostly excited about discovering new cultures, trying different food, and visiting historical places I had only seen in pictures. My main reason for traveling was to learn more about history and enjoy time with my family and friends.</p>
+        <p>I traveled with people I love and trust, and together we planned to visit several incredible places in Greece and Italy, including Athens, Santorini, Rome, and Venice.</p>
+    </section>
+
+    <section>
+        <h2>Body</h2>
+        <p>Each place I visited had something special. In <strong>Athens</strong>, I saw the Parthenon and learned about ancient Greek gods. <strong>Santorini</strong> was beautiful with its white houses and blue roofs. In <strong>Rome</strong>, I visited the Colosseum and ate the best pasta. <strong>Venice</strong> amazed me with its canals and gondolas.</p>
+        <p>My favorite place was Santorini because of the amazing views and peaceful atmosphere. Most of the places met my expectations, but some surprised me with how much more beautiful they were in real life.</p>
+    </section>
+
+    <section>
+        <h2>Ranking: Best Food</h2>
+        <ol>
+            <li><strong>Pizza in Naples, Italy</strong> – The crust was crispy, and the cheese melted perfectly. Truly unforgettable!</li>
+            <li><strong>Gelato in Rome</strong> – So creamy and rich in flavor, it was perfect after walking in the sun.</li>
+            <li><strong>Greek salad in Athens</strong> – So fresh, with juicy tomatoes, olives, and feta cheese.</li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>Images</h2>
+        <img src="IMAGE_LINK_HERE" alt="Photo in Santorini">
+        <p class="image-description">The beautiful sunset in Santorini, Greece.</p>
+
+        <img src="IMAGE_LINK_HERE" alt="Colosseum in Rome">
+        <p class="image-description">Standing in front of the Colosseum, one of the most iconic places in Italy.</p>
+
+        <img src="IMAGE_LINK_HERE" alt="Greek salad">
+        <p class="image-description">My favorite Greek salad in a restaurant in Athens.</p>
+    </section>
+
+</body>
+</html>
+
+
+
+
