@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>The Life of Mateo Mérida</title>
+  <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #4da6ff; /* light blue */
+      color: black;
+      font-family: 'Quicksand', sans-serif;
+      padding: 20px;
+      margin: 0;
+    }
+
+    h1, h2 {
+      color: black;
+    }
+
+    .section {
+      background-color: #b3d9ff;
+      border: 2px solid black;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 20px;
+    }
+
+    .section h1 {
+      margin-top: 0;
+    }
+
+    .info {
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>The Life of Mateo Mérida</h1>
+  <h2 class="info">Made by: Mateo Mérida<br>Date of publish: [Write your date here]</h2>
+
+  <div class="section">
+    <h1>Introduction</h1>
+    <p>I will talk about my childhood, the things that I liked to do, when I was born, and my hobbies.</p>
+  </div>
+
+  <div class="section">
+    <h1>Body</h1>
+    <p>I will talk about my life more recently, like in primary and now in secondary. I will talk about things that I liked and how my life is now. I’ll also share what I like to do in my daily life.</p>
+  </div>
+
+  <div class="section">
+    <h1>Fun Facts</h1>
+    <p>Things about me in my early and current life that are interesting or fun to know.</p>
+  </div>
+
+  <div class="section">
+    <h1>My Family</h1>
+    <p>I was born on 14th February 2011. My mother's name is Veronica and my father's name is Jorge. They work in jewelry. I have an older brother named David. He is 18 years old.</p>
+  </div>
+
+  <div class="section">
+    <h1>Early Childhood</h1>
+    <p>My first and only school for all my preschool and most of primary was Churchill School. One of the memories I remember the most is when I went to Orlando Disneyland for the first time.</p>
+  </div>
+
+  <div class="section">
+    <h1>Growing Up and My Interests</h1>
+    <p>As I started to grow up, I began to have different interests than before. I started to like and dislike new things. For example, I used to like math when I was small, but I didn’t like Spanish because I had to write a lot.</p>
+  </div>
+
+  <div class="section">
+    <h1>My Future Goals</h1>
+    <p>My main future goals are to enter a good university and study in another country for some time. I also want to have a good job that I enjoy and to have a nice family.</p>
+  </div>
+
+  <div class="section">
+    <h1>What Success Means to Me</h1>
+    <p>For me, success is having the opportunity to do the things you want to do while being happy and achieving your goals and dreams.</p>
+  </div>
+
+</body>
+</html>
