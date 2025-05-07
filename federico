@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Life of Federico</title>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: blue;
+      color: white;
+      font-family: '', cursive;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1, h2 {
+      color: white;
+      text-shadow: 1px 1px 5px white;
+    }
+
+    .section {
+      margin-bottom: 30px;
+      border: 2px solid blue;
+      padding: 15px;
+      border-radius: 10px;
+      background-color: #1a1a1a;
+    }
+
+    p {
+      font-family: open sans, sans-serif;
+      color: white;
+      font-size: 16px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Life of Federico</h1>
+  <h2>By Federico</h2>
+
+  <div class="section">
+    <h2>1. A Childhood Full of Imagination</h2>
+    <p>
+      Since I was a little kid, I’ve always loved performing, dancing around the house, and using my imagination.
+      Some of my earliest memories are filled with singing in front of the mirror and creating small shows for my family.
+      Even before I knew what musical theatre was, I was already living it in my own way.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>2. Discovering My Passion</h2>
+    <p>
+      As I grew older, I discovered my true passion: musical theatre. It all started when I saw my first play at school and
+      immediately fell in love with the stage. I began joining school productions and taking every opportunity to perform.
+      Acting, singing, and dancing made me feel more alive than anything else. This passion gave me confidence and a sense
+      of direction, and I’ve been following it ever since.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>3. Growing and Performing</h2>
+    <p>
+      Today, I’ve made great progress — from performing in small school plays to taking on bigger roles. I continue to train,
+      learn, and improve. Musical theatre brings me joy, creativity, and unforgettable experiences. It’s not just something I do —
+      it’s a part of who I am.
+    </p>
+  </div>
+
+</body>
+</html>
