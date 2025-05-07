@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The life of Max Bravo</title>
+</head>
+<body>
+    <header>
+        <h1>The life of Max Bravo</h1>
+        <p><strong>Made by:</strong> Max Bravo</p>
+        <p><strong>Date of publish:</strong> May 5, 2025</p>
+    </header>
+
+    <section>
+        <h2>Introduction</h2>
+        <p>I was born on September 8, 2011. My mom’s name is Alejandra and my dad’s name is Octavio. They both work and take care of a hospital. I have an older sister named Ximena. She is 18 years old.</p>
+        <p>When I was little, I went skiing on the snow. I used to get mad for no reason. My first school was The Churchill School. One of my best memories is when I won my first football tournament at 6 years old. I was a sweet kid, but I was often angry.</p>
+        <p>Things I liked: skiing, football, having fun. Things I disliked: getting frustrated easily. My hobbies were mostly sports and playing.</p>
+        <img src="https://www.redbubble.com/es/i/poster/Revista-LIFE-de-nickshearer/38276591.LVTDI" alt="Max Bravo Childhood" width="300">
+    </section>
+
+    <section>
+        <h2>Body</h2>
+        <p>As I got older, I started doing more sports, especially football. Primary and secondary changed my life because I learned new things, made friends, and grew as a person.</p>
+        <p>Before school, I was more playful and less focused. Now I am more serious about my goals and hobbies.</p>
+        <p>Things I didn’t like when I was younger: reading and writing. Now I like working hard, playing sports, and learning new things.</p>
+        <p>Currently, I enjoy football and setting goals. My hobbies now include sports and learning about business. I dislike wasting time or giving up easily.</p>
+    </section>
+
+    <section>
+        <h2>Fun Facts</h2>
+        <ul>
+            <li>Funny: I once screamed in a snow park because I got scared of a snowman.</li>
+            <li>Bad: I once lost my football shoes before a big game.</li>
+            <li>Good: I won a football tournament when I was 6.</li>
+            <li>Proud: I’m proud of my improvement in school and sports.</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Final</h2>
+        <p>In the future, I want to go to high school for one year in Canada at BCS. After that, I want to study business in Mexico and live in Switzerland.</p>
+        <p>Some of my goals are to have my own company and to travel around the world. I already achieved many small goals, like becoming better at football and being more disciplined.</p>
+        <p>I believe in working hard, having clear goals, and always thinking like a winner.</p>
+    </section>
+
+    <footer>
+        <p>Throughout this website, I shared my identity, interests, and values. I will keep adding pictures to show the things I love and to give more context to my story.</p>
+    </footer>
+</body>
+</html>
+
+
+
+
+
