@@ -63,8 +63,8 @@
 
     <section>
         <h2>Images</h2>
-        <img src="IMAGE_LINK_HERE" alt="Photo in Santorini">
-        <p class="image-description">The beautiful sunset in Santorini, Greece.</p>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.exploreworldwide.com.au%2Fblog%2Fwhich-greek-islands-to-visit&psig=AOvVaw1MYl_sE8xV6I3sW_H0is_e&ust=1747944449833000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiCsbmvtY0DFQAAAAAdAAAAABAE alt="Photo in Santorini">
+        The beautiful sunset in Santorini, Greece.</p>
 
         <img src="IMAGE_LINK_HERE" alt="Colosseum in Rome">
         <p class="image-description">Standing in front of the Colosseum, one of the most iconic places in Italy.</p>
